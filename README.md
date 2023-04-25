@@ -14,6 +14,9 @@
 # Быстрое возвеение в степень 
 Данный алгоритм позволяет быстро возвести число в степень. Данный алгоритм уже реализован в различных библиотеках на низкоуровневых языках и на высокоуровневых языках. В python встроена функция PowMod, используемая для быстрого возведения в степень.
 
+# P.s. Весь код сделан в обучающих целях
+Я не являюсь проффесиональным разработчиком, данные программы сделаны в целях обучения, я никого не призываю использовать данный код как проффесиональный.
+
 # Simplest cryptography implementation
 
 ## Description
@@ -29,3 +32,6 @@ This algorithm is used to decompose RSA keys and then crack them. A real RSA key
 
 # Rapid elevation to a degree 
 This algorithm allows you to quickly raise the number to a power. This algorithm has already been implemented in various libraries in low-level languages and in high-level languages. Python has a built-in PowMod function used for fast exponentiation.
+
+# P.s. All the code is made for educational purposes
+I am not a professional developer, these programs are made for training purposes, I do not encourage anyone to use this code as professional.
